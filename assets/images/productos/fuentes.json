@@ -1,0 +1,252 @@
+{
+  "manzana": {
+    "url": "https://pngimg.com/uploads/apple/apple_PNG12509.png",
+    "page": "https://pngimg.com/image/12509",
+    "title": "Big Apple fruit PNG picture",
+    "thumb": "https://pngimg.com/uploads/apple/small/apple_PNG12509.png",
+    "width": 900,
+    "height": 900,
+    "file": "manzana.png",
+    "dimensions": [
+      900,
+      900
+    ],
+    "bytes": 688862,
+    "license": "CC BY-NC 4.0"
+  },
+  "platano": {
+    "url": "https://pngimg.com/uploads/banana/banana_PNG104250.png",
+    "page": "https://pngimg.com/image/104250",
+    "title": "Yellow Bananas fruit clean PNG clipart",
+    "thumb": "https://pngimg.com/uploads/banana/small/banana_PNG104250.png",
+    "width": 600,
+    "height": 404,
+    "file": "platano.png",
+    "dimensions": [
+      600,
+      404
+    ],
+    "bytes": 206508,
+    "license": "CC BY-NC 4.0"
+  },
+  "arroz": {
+    "url": "https://pngimg.com/uploads/rice/rice_PNG45.png",
+    "page": "https://pngimg.com/image/22413",
+    "title": "Rice 305x442 PNG picture",
+    "thumb": "https://pngimg.com/uploads/rice/small/rice_PNG45.png",
+    "width": 305,
+    "height": 442,
+    "file": "arroz.png",
+    "dimensions": [
+      305,
+      442
+    ],
+    "bytes": 197301,
+    "license": "CC BY-NC 4.0"
+  },
+  "fideos": {
+    "url": "https://pngimg.com/uploads/pasta/pasta_PNG84.png",
+    "page": "https://pngimg.com/image/43809",
+    "title": "Pasta 389x720 PNG picture",
+    "thumb": "https://pngimg.com/uploads/pasta/small/pasta_PNG84.png",
+    "width": 389,
+    "height": 720,
+    "file": "fideos.png",
+    "dimensions": [
+      389,
+      720
+    ],
+    "bytes": 257221,
+    "license": "CC BY-NC 4.0"
+  },
+  "huevos": {
+    "url": "https://pngimg.com/uploads/egg/egg_PNG97980.png",
+    "page": "https://pngimg.com/image/97980",
+    "title": "Eggs 512x387 PNG picture",
+    "thumb": "https://pngimg.com/uploads/egg/small/egg_PNG97980.png",
+    "width": 512,
+    "height": 387,
+    "file": "huevos.png",
+    "dimensions": [
+      512,
+      387
+    ],
+    "bytes": 207789,
+    "license": "CC BY-NC 4.0"
+  },
+  "agua": {
+    "url": "https://pngimg.com/uploads/water_bottle/water_bottle_PNG98963.png",
+    "page": "https://pngimg.com/image/98963",
+    "title": "Water Bottle 400x988 PNG picture",
+    "thumb": "https://pngimg.com/uploads/water_bottle/small/water_bottle_PNG98963.png",
+    "width": 400,
+    "height": 988,
+    "file": "agua.png",
+    "dimensions": [
+      400,
+      988
+    ],
+    "bytes": 91785,
+    "license": "CC BY-NC 4.0"
+  },
+  "jugo": {
+    "url": "https://pngimg.com/uploads/juice/juice_PNG7191.png",
+    "page": "https://pngimg.com/image/7191",
+    "title": "PNG picture of Orange Juice fruit",
+    "thumb": "https://pngimg.com/uploads/juice/small/juice_PNG7191.png",
+    "width": 350,
+    "height": 350,
+    "file": "jugo.png",
+    "dimensions": [
+      350,
+      350
+    ],
+    "bytes": 67321,
+    "license": "CC BY-NC 4.0"
+  },
+  "champu": {
+    "url": "https://pngimg.com/uploads/shampoo/shampoo_PNG99884.png",
+    "page": "https://pngimg.com/image/99884",
+    "title": "Shampoo 1148x1148 PNG picture",
+    "thumb": "https://pngimg.com/uploads/shampoo/small/shampoo_PNG99884.png",
+    "width": 1148,
+    "height": 1148,
+    "file": "champu.png",
+    "dimensions": [
+      1148,
+      1148
+    ],
+    "bytes": 293703,
+    "license": "CC BY-NC 4.0"
+  },
+  "jabon": {
+    "url": "https://pngimg.com/uploads/soap/soap_PNG99798.png",
+    "page": "https://pngimg.com/image/99798",
+    "title": "Soap 580x370 PNG picture",
+    "thumb": "https://pngimg.com/uploads/soap/small/soap_PNG99798.png",
+    "width": 580,
+    "height": 370,
+    "file": "jabon.png",
+    "dimensions": [
+      580,
+      370
+    ],
+    "bytes": 100973,
+    "license": "CC BY-NC 4.0"
+  },
+  "pasta-dental": {
+    "url": "https://pngimg.com/uploads/toothpaste/toothpaste_PNG99622.png",
+    "page": "https://pngimg.com/image/99622",
+    "title": "Toothpaste 1000x1000 PNG picture",
+    "thumb": "https://pngimg.com/uploads/toothpaste/small/toothpaste_PNG99622.png",
+    "width": 1000,
+    "height": 1000,
+    "file": "pasta-dental.png",
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "bytes": 150221,
+    "license": "CC BY-NC 4.0"
+  },
+  "esponjas": {
+    "url": "https://pngimg.com/uploads/sponge/sponge_PNG83.png",
+    "page": "https://pngimg.com/image/51435",
+    "title": "Washing Sponge PNG picture 470x345",
+    "thumb": "https://pngimg.com/uploads/sponge/small/sponge_PNG83.png",
+    "width": 470,
+    "height": 345,
+    "file": "esponjas.png",
+    "dimensions": [
+      470,
+      345
+    ],
+    "bytes": 99040,
+    "license": "CC BY-NC 4.0"
+  },
+  "leche": {
+    "url": "https://pngimg.com/uploads/milk/milk_PNG12734.png",
+    "page": "https://pngimg.com/image/12734",
+    "title": "Milk Carton realistic PNG image",
+    "thumb": "https://pngimg.com/uploads/milk/small/milk_PNG12734.png",
+    "width": 517,
+    "height": 1000,
+    "file": "leche.png",
+    "dimensions": [
+      517,
+      1000
+    ],
+    "bytes": 495581,
+    "license": "CC BY-NC 4.0"
+  },
+  "bebida": {
+    "url": "https://pngimg.com/uploads/fanta/fanta_PNG63.png",
+    "page": "https://pngimg.com/image/85849",
+    "title": "Fanta PNG picture 600x600",
+    "thumb": "https://pngimg.com/uploads/fanta/small/fanta_PNG63.png",
+    "width": 600,
+    "height": 600,
+    "file": "bebida.png",
+    "dimensions": [
+      600,
+      600
+    ],
+    "bytes": 149453,
+    "license": "CC BY-NC 4.0"
+  },
+  "detergente": {
+    "url": "https://www.pngfind.com/pngs/b/16-163212_tide-pods-png.png",
+    "page": "https://www.pngfind.com/download/iiRToJ_tide-laundry-detergent-hd-png-download/",
+    "file": "detergente.png",
+    "dimensions": [
+      802,
+      1107
+    ],
+    "bytes": 212207,
+    "license": "Uso no comercial según la página de descarga; conservar fuente."
+  },
+  "papel-absorbente": {
+    "url": "https://www.pngfind.com/pngs/b/272-2727752_towel-png.png",
+    "page": "https://www.pngfind.com/download/iTRwmJh_paper-towel-png-paper-towels-png-transparent-png/",
+    "file": "papel-absorbente.png",
+    "dimensions": [
+      458,
+      621
+    ],
+    "bytes": 150879,
+    "license": "Uso no comercial según la página de descarga; conservar fuente."
+  },
+  "limpiador": {
+    "url": "https://www.vhv.rs/dpng/f/75-751254_bleach-png.png",
+    "page": "https://www.vhv.rs/download/oxTmwx_astonish-multi-purpose-cleaner-with-bleach-hd-png/",
+    "file": "limpiador.png",
+    "dimensions": [
+      783,
+      1840
+    ],
+    "bytes": 1815167,
+    "license": "Uso no comercial según la página de descarga; conservar fuente."
+  },
+  "bolsas-basura": {
+    "url": "https://www.vhv.rs/dpng/f/570-5702247_garbage-bag-png.png",
+    "page": "https://www.vhv.rs/download/TiooTmh_garbage-bags-wholesale-household-disposable-medium-bin-bag/",
+    "file": "bolsas-basura.png",
+    "dimensions": [
+      787,
+      617
+    ],
+    "bytes": 363201,
+    "license": "Uso no comercial según la página de descarga; conservar fuente."
+  },
+  "lavalozas": {
+    "url": "https://www.pngfind.com/pngs/b/687-6874607_squirt-png.png",
+    "page": "https://www.pngfind.com/download/TiTJRTT_morning-fresh-lemon-antibacterial-dishwashing-liquid-hd-png/",
+    "file": "lavalozas.png",
+    "dimensions": [
+      293,
+      668
+    ],
+    "bytes": 238498,
+    "license": "Personal Use Only según PNGFind"
+  }
+}

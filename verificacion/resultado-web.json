@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "errors": [],
+  "checks": [
+    "10 rutas sin imágenes rotas",
+    "crear y eliminar producto",
+    "editar imagen",
+    "persistencia tras recarga",
+    "lista de compras",
+    "producto inexistente",
+    "vista móvil y escritorio"
+  ]
+}

@@ -1,0 +1,6 @@
+/* ESTILOS GLOBALES: Tailwind incorpora reglas base, componentes y utilidades.
+ * Metro usa este archivo mediante withNativeWind; app/_layout.tsx lo importa.
+ * Ejemplos de utilidades usadas en JSX: p-4, bg-white, rounded-2xl y flex-row. */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
